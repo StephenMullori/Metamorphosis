@@ -105,7 +105,7 @@ header .navbar ul li a{
 }
 
 header .hero{
-  background: url(img/gregor.webp) center center/cover;
+  background: url(img/gregor.png) center center/cover;
   height: 100vh;
 
   display: flex;
